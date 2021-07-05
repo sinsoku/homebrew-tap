@@ -3,9 +3,9 @@
 class MiterasCli < Formula
   desc "A command-line tool for MITERAS."
   homepage "https://github.com/sinsoku/miteras-cli"
-  url "https://github.com/sinsoku/miteras-cli/releases/download/v0.2.0/miteras-x86_64-apple-darwin.zip"
-  sha256 "303572a20afe4d2f8598e1c8bea400de7017fcd76789787f22a7d0c84dd0708e"
-  version "0.2.0"
+  url "https://github.com/sinsoku/miteras-cli/releases/download/v0.2.1/miteras-x86_64-apple-darwin.zip"
+  sha256 "c1e0ddaa8ee88251985dd4e3242021e52d335aadb80ec19ca75d397732e43657"
+  version "0.2.1"
 
   def install
     bin.install "miteras"
